@@ -112,7 +112,7 @@ class ViewModel : ViewModel() {
     }
 }
 ```
-### View (MainActivity)
+### View (Activity/Fragment)
 ```kotlin
 class MainActivity : AppCompatActivity(), Interface.View {
     
