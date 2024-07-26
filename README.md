@@ -146,6 +146,4 @@ class MainActivity : AppCompatActivity(), Interface.View {
     }
 }
 ```
-## Explanation
-**MVP**: In MVP, the Presenter acts as an intermediary between the View and the Model. It handles data logic and updates the View.
-**MVVM**: MVVM separates the View (UI) from the business logic (ViewModel). The ViewModel manages the data for the View and maintains state across configuration changes.
+
